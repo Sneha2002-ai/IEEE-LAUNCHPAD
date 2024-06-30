@@ -2,15 +2,15 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> write about your self I am sneha ET.We are 4 members including me.I am native to kodungallur.I completed.............. my btech in electrical and electronics engineering.I also completed my diploma in electrical and electronics engineering from sreerama government Polytechnic college.My graduation is completed in this month 2024
+currently i want to secure a job with launchpad.My long-term goal by gaining work experience of six to seven years in field as related to electrical engineering.I wish to sh to work on senior position contributing to betterment of my workplace.I am self motivated and disciplined soul.I am always keen to upskill myself by learning new things whenever i get a chance.I participated on national level cyber security quiz.and also participated in intenship by coursera.My strengths are analytical approach,my human touch to situation,my apprecaible communication and presentation skills.I believe in being realistic in my freeline spending time with listening to music, travelling.I have basic knowledge of AutoCAD,Matlab.I am interested in field of designing.I am committed to lifelong learning.i genuinely want to build a successful career with launchpad.outside of my work i keep myself fit and active.so my concentration is high.My strengths include my flexibility,my past pace of work which means i will get more work done with this average employee and my adaptability to change.I am type of rolemodel for your company and i will support organisation.
 
 ## Portfolio Highlights
 
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+|--Eyeball controlled wheelchair----it enable  for movement of fully paralyzed people.it include a webcam which captures the images and send to raspberry pi and arduino are connected and control motor and. there by rotation of motor.          GSM based energy meter it gives us electrity. bill in our mobile phone .---------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
@@ -24,7 +24,7 @@
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- I mainly focused on doing a job related to design on my electrical and electronics engineering 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
